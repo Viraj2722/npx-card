@@ -1,0 +1,14 @@
+{
+  "name": "dedomil",
+  "version": "1.0.1",
+  "description": "my npx card to contact me from terminal",
+  "main": "index.js",
+  "bin": {
+    "dedomil": "./index.js"
+  },
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "dedomil <dedomil@skiff.com>",
+  "license": "ISC"
+}
