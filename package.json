@@ -1,6 +1,6 @@
 {
   "name": "dedomil",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "my npx card to contact me from terminal",
   "main": "index.js",
   "bin": {
@@ -10,5 +10,13 @@
     "test": "node ."
   },
   "author": "dedomil <dedomil@skiff.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "cross-fetch": "^4.0.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4"
+  }
 }
