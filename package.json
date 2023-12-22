@@ -1,15 +1,15 @@
 {
-  "name": "dedomil",
+  "name": "viraj",
   "version": "1.0.3",
-  "description": "my npx card to contact me from terminal",
+  "description": "My npx card to contact me from terminal",
   "main": "index.js",
   "bin": {
-    "dedomil": "./index.js"
+    "viraj": "./index.js"
   },
   "scripts": {
     "test": "node ."
   },
-  "author": "dedomil <dedomil@skiff.com>",
+  "author": "viraj <virajwalavalkar@skiff.com>",
   "license": "ISC",
   "dependencies": {
     "boxen": "^4.2.0",
