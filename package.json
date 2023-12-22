@@ -1,6 +1,6 @@
 {
   "name": "viraj",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "My npx card to contact me from terminal",
   "main": "index.js",
   "bin": {
