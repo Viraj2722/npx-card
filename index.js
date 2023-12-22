@@ -79,7 +79,7 @@ const questions = [
       {
         name: `Send me an ${chalk.green.bold("email")}?`,
         value: async () => {
-          await open("mailto:dedomil@skiff.com");
+          await open("mailto:virajwalavalkar@skiff.com");
           console.log("- Done, see you soon at inbox!");
         },
       },
