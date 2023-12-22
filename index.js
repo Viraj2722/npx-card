@@ -10,11 +10,11 @@ const open = require("open");
 clear();
 
 const data = {
-  name: chalk.bold.green("               Aditya Yadav"),
-  twitter: chalk.gray("https://x.com/") + chalk.bold.cyan("dedomilx"),
-  github: chalk.gray("https://github.com/") + chalk.bold.green("dedomil"),
-  linkedin: chalk.gray("https://linkedin.com/") + chalk.bold.blue("in/dedomil"),
-  web: chalk.bold.cyan("https://aditya.is-a.dev"),
+  name: chalk.bold.green("               Viraj Walavalkar"),
+  twitter: chalk.gray("https://x.com/") + chalk.bold.cyan("Walavalkarviraj"),
+  github: chalk.gray("https://github.com/") + chalk.bold.green("Viraj2722"),
+  linkedin: chalk.gray("https://linkedin.com/") + chalk.bold.blue("in/viraj-walavalkar-4a2696257/"),
+  web: chalk.bold.cyan("https://viraj.is-a.dev"),
 
   labelTwitter: chalk.white.bold("X:"),
   labelGitHub: chalk.white.bold("GitHub:"),
